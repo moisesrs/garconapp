@@ -1,0 +1,37 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "cordova-plugin-console": {
+            "PACKAGE_NAME": "br.com.registrodebordo.garconapp"
+        },
+        "cordova-plugin-device": {
+            "PACKAGE_NAME": "br.com.registrodebordo.garconapp"
+        },
+        "cordova-plugin-splashscreen": {
+            "PACKAGE_NAME": "br.com.registrodebordo.garconapp"
+        },
+        "cordova-plugin-statusbar": {
+            "PACKAGE_NAME": "br.com.registrodebordo.garconapp"
+        },
+        "cordova-plugin-whitelist": {
+            "PACKAGE_NAME": "br.com.registrodebordo.garconapp"
+        },
+        "ionic-plugin-keyboard": {
+            "PACKAGE_NAME": "br.com.registrodebordo.garconapp"
+        },
+        "phonegap-plugin-barcodescanner": {
+            "CAMERA_USAGE_DESCRIPTION": " ",
+            "PACKAGE_NAME": "br.com.registrodebordo.garconapp"
+        },
+        "cordova-plugin-vibration": {
+            "PACKAGE_NAME": "br.com.registrodebordo.garconapp"
+        }
+    },
+    "dependent_plugins": {}
+}
